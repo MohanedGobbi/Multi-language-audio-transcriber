@@ -31,7 +31,7 @@ Installation
 
 Clone the repository:
 
-bash   git clone https://github.com/yourusername/multi-language-transcriber.git
+bash   git clone [https://github.com/yourusername/multi-language-transcriber.git](https://github.com/MohanedGobbi/Multi-language-audio-transcriber)
    cd multi-language-transcriber
 
 Install Python dependencies:
@@ -46,7 +46,7 @@ Linux: sudo apt install ffmpeg (Ubuntu/Debian) or equivalent for your distro
 
 
 Run the application:
-
+create output folder and link its path in main.py
 bash   python main.py
 📖 Usage
 Transcribing YouTube Videos
